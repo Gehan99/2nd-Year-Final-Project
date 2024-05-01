@@ -8,11 +8,11 @@ This project is a web application developed using Spring Boot (Java) for the bac
 ## Screenshots
 
 ![Screenshot 1](https://github.com/Gehan99/2nd-Year-Final-Project/blob/main/1.jpg)
-![Screenshot 1](https://github.com/Gehan99/2nd-Year-Final-Project/blob/main/1.jpg)
-![Screenshot 1](https://github.com/Gehan99/2nd-Year-Final-Project/blob/main/1.jpg)
-![Screenshot 1](https://github.com/Gehan99/2nd-Year-Final-Project/blob/main/1.jpg)
-![Screenshot 1](https://github.com/Gehan99/2nd-Year-Final-Project/blob/main/1.jpg)
-*Student Home*
+![Screenshot 1](https://github.com/Gehan99/2nd-Year-Final-Project/blob/main/2.jpg)
+![Screenshot 1](https://github.com/Gehan99/2nd-Year-Final-Project/blob/main/3.jpg)
+![Screenshot 1](https://github.com/Gehan99/2nd-Year-Final-Project/blob/main/4.jpg)
+![Screenshot 1](https://github.com/Gehan99/2nd-Year-Final-Project/blob/main/5.jpeg)
+
 
 ## Controllers
 
