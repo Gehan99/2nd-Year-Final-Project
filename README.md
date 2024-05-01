@@ -7,8 +7,12 @@ Welcome to the Course Finding Web Application repository! This web application i
 This project is a web application developed using Spring Boot (Java) for the backend. It follows the MVC (Model-View-Controller) architecture pattern. The backend handles data management and business logic, while the frontend is not included in this repository.
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-*Caption for Screenshot 1*
+![Screenshot 1](https://github.com/Gehan99/2nd-Year-Final-Project/blob/main/1.jpg)
+![Screenshot 1](https://github.com/Gehan99/2nd-Year-Final-Project/blob/main/1.jpg)
+![Screenshot 1](https://github.com/Gehan99/2nd-Year-Final-Project/blob/main/1.jpg)
+![Screenshot 1](https://github.com/Gehan99/2nd-Year-Final-Project/blob/main/1.jpg)
+![Screenshot 1](https://github.com/Gehan99/2nd-Year-Final-Project/blob/main/1.jpg)
+*Student Home*
 
 ## Controllers
 
